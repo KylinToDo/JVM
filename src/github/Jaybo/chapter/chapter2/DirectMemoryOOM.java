@@ -1,4 +1,4 @@
-package chapter2;
+package github.Jaybo.chapter.chapter2;
 
 import sun.misc.Unsafe;
 

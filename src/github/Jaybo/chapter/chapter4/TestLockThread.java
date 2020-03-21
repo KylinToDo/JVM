@@ -1,4 +1,4 @@
-package chapter4;
+package github.Jaybo.chapter.chapter4;
 
 /**
  * @ClassNameTestLockThread

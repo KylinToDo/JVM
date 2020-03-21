@@ -1,4 +1,4 @@
-package chapter3;
+package github.Jaybo.chapter.chapter3;
 
 import java.util.Map;
 
